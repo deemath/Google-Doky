@@ -34,8 +34,8 @@ A **desktop application built with PyQt5** to help security researchers, penetra
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/google-dork-generator.git
-   cd google-dork-generator
+   git clone https://github.com/deemath/Google-Doky.git
+   cd Google-Doky
    ```
 
 2. **Install Dependencies**
@@ -56,7 +56,7 @@ A **desktop application built with PyQt5** to help security researchers, penetra
 Run the app with:
 
 ```bash
-python google_dork_generator.py
+python dorky.py
 ```
 
 1. Enter your desired search parameters in the GUI.
